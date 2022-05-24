@@ -1,0 +1,16 @@
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.exe
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.deps.json
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.json
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.dev.json
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.dll
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.pdb
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.AssemblyReference.cache
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfoInputs.cache
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfo.cs
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.dll
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\refint\DayOfWeek.dll
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.pdb
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.genruntimeconfig.cache
+D:\synology\c#\github\SoftUni\ConditionalStatementsAdvanced-Lab\DayOfWeek\DayOfWeek\obj\Debug\net5.0\ref\DayOfWeek.dll

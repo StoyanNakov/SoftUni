@@ -6,7 +6,7 @@ namespace DayOfWeek
     {
         static void Main(string[] args)
         {
-           int number = int.Parse(Console.ReadLine());
+            int number = int.Parse(Console.ReadLine());
 
             switch (number)
             {

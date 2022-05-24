@@ -1,4 +1,2 @@
-*.cache
-bin
-obj
-*.v2
+
+DayOfWeek/DayOfWeek/bin/Debug/net5.0/DayOfWeek.exe
