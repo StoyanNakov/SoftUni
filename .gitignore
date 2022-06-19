@@ -2,3 +2,6 @@
 bin
 obj
 *.v2
+*.v1
+*.csproj
+.vs
