@@ -5,3 +5,5 @@ obj
 *.v1
 *.csproj
 .vs
+*.iml
+*.xml
