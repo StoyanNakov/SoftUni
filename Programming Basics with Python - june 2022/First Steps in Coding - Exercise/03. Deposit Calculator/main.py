@@ -1,0 +1,5 @@
+deposit = float(input())
+mounts = int(input())
+yp = float(input())
+sum = deposit  + (mounts * (((deposit * yp)/100) /12))
+print (sum)
